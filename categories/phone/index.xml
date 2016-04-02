@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phone on Sensorium</title>
-    <link>http://satomyumi.github.io/categories/phone/</link>
+    <link>http://satomyumi.github.io/sensorium/categories/phone/</link>
     <description>Recent content in Phone on Sensorium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Satomi Misato</copyright>
-    <atom:link href="http://satomyumi.github.io/categories/phone/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://satomyumi.github.io/sensorium/categories/phone/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Phone</title>
-      <link>http://satomyumi.github.io/customproject/anotherphone/</link>
+      <link>http://satomyumi.github.io/sensorium/customproject/anotherphone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customproject/anotherphone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customproject/anotherphone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -22,10 +22,10 @@
     
     <item>
       <title>Phone</title>
-      <link>http://satomyumi.github.io/customproject/phone/</link>
+      <link>http://satomyumi.github.io/sensorium/customproject/phone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customproject/phone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customproject/phone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -33,10 +33,10 @@
     
     <item>
       <title>Phone</title>
-      <link>http://satomyumi.github.io/project/anotherphone/</link>
+      <link>http://satomyumi.github.io/sensorium/project/anotherphone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/anotherphone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/anotherphone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -44,10 +44,10 @@
     
     <item>
       <title>Phone</title>
-      <link>http://satomyumi.github.io/project/phone/</link>
+      <link>http://satomyumi.github.io/sensorium/project/phone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/phone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/phone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>

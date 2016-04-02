@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Sensorium</title>
-    <link>http://satomyumi.github.io/project/</link>
+    <link>http://satomyumi.github.io/sensorium/project/</link>
     <description>Recent content in Projects on Sensorium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Satomi Misato</copyright>
-    <atom:link href="http://satomyumi.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://satomyumi.github.io/sensorium/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Video</title>
-      <link>http://satomyumi.github.io/project/video/</link>
+      <link>http://satomyumi.github.io/sensorium/project/video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/video/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/video/</guid>
       <description>&lt;p&gt;Videos can be provided via:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot;
@@ -38,10 +38,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Another Car</title>
-      <link>http://satomyumi.github.io/project/anothercar/</link>
+      <link>http://satomyumi.github.io/sensorium/project/anothercar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/anothercar/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/anothercar/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -49,10 +49,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Another Cup</title>
-      <link>http://satomyumi.github.io/project/anothercup/</link>
+      <link>http://satomyumi.github.io/sensorium/project/anothercup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/anothercup/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/anothercup/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -60,10 +60,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Car</title>
-      <link>http://satomyumi.github.io/project/car/</link>
+      <link>http://satomyumi.github.io/sensorium/project/car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/car/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/car/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -71,10 +71,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Cup</title>
-      <link>http://satomyumi.github.io/project/cup/</link>
+      <link>http://satomyumi.github.io/sensorium/project/cup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/cup/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/cup/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -82,10 +82,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Drone</title>
-      <link>http://satomyumi.github.io/project/anotherdrone/</link>
+      <link>http://satomyumi.github.io/sensorium/project/anotherdrone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/anotherdrone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/anotherdrone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -93,10 +93,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Drone</title>
-      <link>http://satomyumi.github.io/project/drone/</link>
+      <link>http://satomyumi.github.io/sensorium/project/drone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/drone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/drone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -104,10 +104,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Food</title>
-      <link>http://satomyumi.github.io/project/anotherfood/</link>
+      <link>http://satomyumi.github.io/sensorium/project/anotherfood/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/anotherfood/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/anotherfood/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -115,10 +115,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Food</title>
-      <link>http://satomyumi.github.io/project/food/</link>
+      <link>http://satomyumi.github.io/sensorium/project/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/food/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/food/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -126,10 +126,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Jars</title>
-      <link>http://satomyumi.github.io/project/anotherjars/</link>
+      <link>http://satomyumi.github.io/sensorium/project/anotherjars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/anotherjars/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/anotherjars/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -137,10 +137,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Jars</title>
-      <link>http://satomyumi.github.io/project/jars/</link>
+      <link>http://satomyumi.github.io/sensorium/project/jars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/jars/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/jars/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -148,10 +148,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Phone</title>
-      <link>http://satomyumi.github.io/project/anotherphone/</link>
+      <link>http://satomyumi.github.io/sensorium/project/anotherphone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/anotherphone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/anotherphone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -159,10 +159,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Phone</title>
-      <link>http://satomyumi.github.io/project/phone/</link>
+      <link>http://satomyumi.github.io/sensorium/project/phone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/phone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/phone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>

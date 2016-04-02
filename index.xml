@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sensorium</title>
-    <link>http://satomyumi.github.io/</link>
+    <link>http://satomyumi.github.io/sensorium/</link>
     <description>Recent content on Sensorium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Satomi Misato</copyright>
-    <atom:link href="http://satomyumi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://satomyumi.github.io/sensorium/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Video</title>
-      <link>http://satomyumi.github.io/customproject/video/</link>
+      <link>http://satomyumi.github.io/sensorium/customproject/video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customproject/video/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customproject/video/</guid>
       <description>&lt;p&gt;Videos can be provided via:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot;
@@ -38,10 +38,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Video</title>
-      <link>http://satomyumi.github.io/project/video/</link>
+      <link>http://satomyumi.github.io/sensorium/project/video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/video/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/video/</guid>
       <description>&lt;p&gt;Videos can be provided via:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot;
@@ -65,20 +65,20 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>good to great</title>
-      <link>http://satomyumi.github.io/post/good-to-great/</link>
+      <link>http://satomyumi.github.io/sensorium/post/good-to-great/</link>
       <pubDate>Sat, 02 Apr 2016 17:03:14 +0900</pubDate>
       
-      <guid>http://satomyumi.github.io/post/good-to-great/</guid>
+      <guid>http://satomyumi.github.io/sensorium/post/good-to-great/</guid>
       <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Info</title>
-      <link>http://satomyumi.github.io/custompost/info/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/info/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/info/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/info/</guid>
       <description>&lt;p&gt;You can optionally set an image in the front matter of a post using
 &lt;code&gt;image = &amp;quot;...&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -86,10 +86,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Redirect</title>
-      <link>http://satomyumi.github.io/custompost/redirect/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/redirect/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/redirect/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/redirect/</guid>
       <description>&lt;p&gt;You can optionally set the front matter &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt; to automatically
 redirect the content to another page.&lt;/p&gt;
 </description>
@@ -97,91 +97,91 @@ redirect the content to another page.&lt;/p&gt;
     
     <item>
       <title>This is the title</title>
-      <link>http://satomyumi.github.io/customgallery/anothercar/</link>
+      <link>http://satomyumi.github.io/sensorium/customgallery/anothercar/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customgallery/anothercar/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customgallery/anothercar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>http://satomyumi.github.io/customgallery/anothercup/</link>
+      <link>http://satomyumi.github.io/sensorium/customgallery/anothercup/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customgallery/anothercup/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customgallery/anothercup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>http://satomyumi.github.io/customgallery/anotherdrone/</link>
+      <link>http://satomyumi.github.io/sensorium/customgallery/anotherdrone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customgallery/anotherdrone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customgallery/anotherdrone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>http://satomyumi.github.io/customgallery/anotherfood/</link>
+      <link>http://satomyumi.github.io/sensorium/customgallery/anotherfood/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customgallery/anotherfood/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customgallery/anotherfood/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>http://satomyumi.github.io/customgallery/anotherjars/</link>
+      <link>http://satomyumi.github.io/sensorium/customgallery/anotherjars/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customgallery/anotherjars/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customgallery/anotherjars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>http://satomyumi.github.io/customgallery/anotherphone/</link>
+      <link>http://satomyumi.github.io/sensorium/customgallery/anotherphone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customgallery/anotherphone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customgallery/anotherphone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>http://satomyumi.github.io/customgallery/car/</link>
+      <link>http://satomyumi.github.io/sensorium/customgallery/car/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customgallery/car/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customgallery/car/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>http://satomyumi.github.io/customgallery/cup/</link>
+      <link>http://satomyumi.github.io/sensorium/customgallery/cup/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customgallery/cup/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customgallery/cup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>http://satomyumi.github.io/customgallery/drone/</link>
+      <link>http://satomyumi.github.io/sensorium/customgallery/drone/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customgallery/drone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customgallery/drone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>This is the title</title>
-      <link>http://satomyumi.github.io/customgallery/food/</link>
+      <link>http://satomyumi.github.io/sensorium/customgallery/food/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customgallery/food/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customgallery/food/</guid>
       <description></description>
     </item>
     

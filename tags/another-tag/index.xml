@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Another Tag on Sensorium</title>
-    <link>http://satomyumi.github.io/tags/another-tag/</link>
+    <link>http://satomyumi.github.io/sensorium/tags/another-tag/</link>
     <description>Recent content in Another Tag on Sensorium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Satomi Misato</copyright>
-    <atom:link href="http://satomyumi.github.io/tags/another-tag/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://satomyumi.github.io/sensorium/tags/another-tag/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Another Car</title>
-      <link>http://satomyumi.github.io/customproject/anothercar/</link>
+      <link>http://satomyumi.github.io/sensorium/customproject/anothercar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customproject/anothercar/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customproject/anothercar/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -22,10 +22,10 @@
     
     <item>
       <title>Another Car</title>
-      <link>http://satomyumi.github.io/project/anothercar/</link>
+      <link>http://satomyumi.github.io/sensorium/project/anothercar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/anothercar/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/anothercar/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -33,10 +33,10 @@
     
     <item>
       <title>Another Cup</title>
-      <link>http://satomyumi.github.io/customproject/anothercup/</link>
+      <link>http://satomyumi.github.io/sensorium/customproject/anothercup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customproject/anothercup/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customproject/anothercup/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -44,10 +44,10 @@
     
     <item>
       <title>Another Cup</title>
-      <link>http://satomyumi.github.io/project/anothercup/</link>
+      <link>http://satomyumi.github.io/sensorium/project/anothercup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/anothercup/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/anothercup/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -55,10 +55,10 @@
     
     <item>
       <title>Car</title>
-      <link>http://satomyumi.github.io/customproject/car/</link>
+      <link>http://satomyumi.github.io/sensorium/customproject/car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customproject/car/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customproject/car/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -66,10 +66,10 @@
     
     <item>
       <title>Car</title>
-      <link>http://satomyumi.github.io/project/car/</link>
+      <link>http://satomyumi.github.io/sensorium/project/car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/car/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/car/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -77,10 +77,10 @@
     
     <item>
       <title>Cup</title>
-      <link>http://satomyumi.github.io/customproject/cup/</link>
+      <link>http://satomyumi.github.io/sensorium/customproject/cup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customproject/cup/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customproject/cup/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -88,10 +88,10 @@
     
     <item>
       <title>Cup</title>
-      <link>http://satomyumi.github.io/project/cup/</link>
+      <link>http://satomyumi.github.io/sensorium/project/cup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/cup/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/cup/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -99,10 +99,10 @@
     
     <item>
       <title>Drone</title>
-      <link>http://satomyumi.github.io/customproject/anotherdrone/</link>
+      <link>http://satomyumi.github.io/sensorium/customproject/anotherdrone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customproject/anotherdrone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customproject/anotherdrone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -110,10 +110,10 @@
     
     <item>
       <title>Drone</title>
-      <link>http://satomyumi.github.io/customproject/drone/</link>
+      <link>http://satomyumi.github.io/sensorium/customproject/drone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customproject/drone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customproject/drone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -121,10 +121,10 @@
     
     <item>
       <title>Drone</title>
-      <link>http://satomyumi.github.io/project/anotherdrone/</link>
+      <link>http://satomyumi.github.io/sensorium/project/anotherdrone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/anotherdrone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/anotherdrone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -132,10 +132,10 @@
     
     <item>
       <title>Drone</title>
-      <link>http://satomyumi.github.io/project/drone/</link>
+      <link>http://satomyumi.github.io/sensorium/project/drone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/drone/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/drone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -143,10 +143,10 @@
     
     <item>
       <title>Food</title>
-      <link>http://satomyumi.github.io/customproject/anotherfood/</link>
+      <link>http://satomyumi.github.io/sensorium/customproject/anotherfood/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customproject/anotherfood/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customproject/anotherfood/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -154,10 +154,10 @@
     
     <item>
       <title>Food</title>
-      <link>http://satomyumi.github.io/customproject/food/</link>
+      <link>http://satomyumi.github.io/sensorium/customproject/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/customproject/food/</guid>
+      <guid>http://satomyumi.github.io/sensorium/customproject/food/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -165,10 +165,10 @@
     
     <item>
       <title>Food</title>
-      <link>http://satomyumi.github.io/project/anotherfood/</link>
+      <link>http://satomyumi.github.io/sensorium/project/anotherfood/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/project/anotherfood/</guid>
+      <guid>http://satomyumi.github.io/sensorium/project/anotherfood/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>

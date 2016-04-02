@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Customposts on Sensorium</title>
-    <link>http://satomyumi.github.io/custompost/</link>
+    <link>http://satomyumi.github.io/sensorium/custompost/</link>
     <description>Recent content in Customposts on Sensorium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Satomi Misato</copyright>
     <lastBuildDate>Wed, 29 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://satomyumi.github.io/custompost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://satomyumi.github.io/sensorium/custompost/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Info</title>
-      <link>http://satomyumi.github.io/custompost/info/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/info/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/info/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/info/</guid>
       <description>&lt;p&gt;You can optionally set an image in the front matter of a post using
 &lt;code&gt;image = &amp;quot;...&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -23,10 +23,10 @@
     
     <item>
       <title>Redirect</title>
-      <link>http://satomyumi.github.io/custompost/redirect/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/redirect/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/redirect/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/redirect/</guid>
       <description>&lt;p&gt;You can optionally set the front matter &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt; to automatically
 redirect the content to another page.&lt;/p&gt;
 </description>
@@ -34,10 +34,10 @@ redirect the content to another page.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>http://satomyumi.github.io/custompost/eight/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/eight/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/eight/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/eight/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -50,10 +50,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>http://satomyumi.github.io/custompost/eleven/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/eleven/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/eleven/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/eleven/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -66,10 +66,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>http://satomyumi.github.io/custompost/five/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/five/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/five/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/five/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -82,10 +82,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>http://satomyumi.github.io/custompost/four/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/four/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/four/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/four/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -98,10 +98,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>http://satomyumi.github.io/custompost/nine/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/nine/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/nine/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/nine/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -114,10 +114,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>http://satomyumi.github.io/custompost/one/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/one/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/one/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/one/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -130,10 +130,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>http://satomyumi.github.io/custompost/seven/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/seven/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/seven/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/seven/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -146,10 +146,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>http://satomyumi.github.io/custompost/six/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/six/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/six/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/six/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -162,10 +162,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>http://satomyumi.github.io/custompost/ten/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/ten/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/ten/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/ten/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -178,10 +178,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>http://satomyumi.github.io/custompost/three/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/three/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/three/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/three/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -194,10 +194,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>http://satomyumi.github.io/custompost/twelve/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/twelve/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/twelve/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/twelve/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -210,10 +210,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>http://satomyumi.github.io/custompost/two/</link>
+      <link>http://satomyumi.github.io/sensorium/custompost/two/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://satomyumi.github.io/custompost/two/</guid>
+      <guid>http://satomyumi.github.io/sensorium/custompost/two/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
