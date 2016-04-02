@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sensorium</title>
+    <link>http://satomyumi.github.io/</link>
+    <description>Recent content on Sensorium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Satomi Misato</copyright>
+    <atom:link href="http://satomyumi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Video</title>
+      <link>http://satomyumi.github.io/customproject/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/customproject/video/</guid>
+      <description>&lt;p&gt;Videos can be provided via:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot;
+video_webm = &amp;quot;/vid/vid_480x320.webm&amp;quot;
+video_ogv = &amp;quot;/vid/vid_480x320.ogv&amp;quot;
+video_3gp = &amp;quot;/vid/vid_352x288.3gp&amp;quot;
+video_fallback = &amp;quot;/img/car.jpg&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Each value is optional. If the fallback image is provided, it will be used
+as both the poster of the video and the fallback if the browser does not
+support HTML5 video.&lt;/p&gt;
+
+&lt;p&gt;You can use the partial for a video via:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;.Scratch.Set &amp;quot;class&amp;quot; &amp;quot;some extra CSS classes on video tag&amp;quot;
+{{ partial &amp;quot;extra/video.html&amp;quot; . }}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>http://satomyumi.github.io/project/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/project/video/</guid>
+      <description>&lt;p&gt;Videos can be provided via:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot;
+video_webm = &amp;quot;/vid/vid_480x320.webm&amp;quot;
+video_ogv = &amp;quot;/vid/vid_480x320.ogv&amp;quot;
+video_3gp = &amp;quot;/vid/vid_352x288.3gp&amp;quot;
+video_fallback = &amp;quot;/img/car.jpg&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Each value is optional. If the fallback image is provided, it will be used
+as both the poster of the video and the fallback if the browser does not
+support HTML5 video.&lt;/p&gt;
+
+&lt;p&gt;You can use the partial for a video via:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;.Scratch.Set &amp;quot;class&amp;quot; &amp;quot;some extra CSS classes on video tag&amp;quot;
+{{ partial &amp;quot;extra/video.html&amp;quot; . }}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>good to great</title>
+      <link>http://satomyumi.github.io/post/good-to-great/</link>
+      <pubDate>Sat, 02 Apr 2016 17:03:14 +0900</pubDate>
+      
+      <guid>http://satomyumi.github.io/post/good-to-great/</guid>
+      <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Info</title>
+      <link>http://satomyumi.github.io/custompost/info/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/custompost/info/</guid>
+      <description>&lt;p&gt;You can optionally set an image in the front matter of a post using
+&lt;code&gt;image = &amp;quot;...&amp;quot;&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Redirect</title>
+      <link>http://satomyumi.github.io/custompost/redirect/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/custompost/redirect/</guid>
+      <description>&lt;p&gt;You can optionally set the front matter &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt; to automatically
+redirect the content to another page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/customgallery/anothercar/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/customgallery/anothercar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/customgallery/anothercup/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/customgallery/anothercup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/customgallery/anotherdrone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/customgallery/anotherdrone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/customgallery/anotherfood/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/customgallery/anotherfood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/customgallery/anotherjars/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/customgallery/anotherjars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/customgallery/anotherphone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/customgallery/anotherphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/customgallery/car/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/customgallery/car/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/customgallery/cup/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/customgallery/cup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/customgallery/drone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/customgallery/drone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/customgallery/food/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/customgallery/food/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
