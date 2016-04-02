@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Car on Sensorium</title>
+    <link>http://satomyumi.github.io/categories/car/</link>
+    <description>Recent content in Car on Sensorium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Satomi Misato</copyright>
+    <atom:link href="http://satomyumi.github.io/categories/car/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Another Car</title>
+      <link>http://satomyumi.github.io/customproject/anothercar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/customproject/anothercar/</guid>
+      <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
+&lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Another Car</title>
+      <link>http://satomyumi.github.io/project/anothercar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/project/anothercar/</guid>
+      <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
+&lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Car</title>
+      <link>http://satomyumi.github.io/customproject/car/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/customproject/car/</guid>
+      <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
+&lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Car</title>
+      <link>http://satomyumi.github.io/project/car/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/project/car/</guid>
+      <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
+&lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

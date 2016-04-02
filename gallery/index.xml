@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Sensorium</title>
+    <link>http://satomyumi.github.io/gallery/</link>
+    <description>Recent content in Galleries on Sensorium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; by Satomi Misato</copyright>
+    <lastBuildDate>Wed, 29 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://satomyumi.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/gallery/anothercar/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/gallery/anothercar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/gallery/anothercup/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/gallery/anothercup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/gallery/anotherdrone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/gallery/anotherdrone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/gallery/anotherfood/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/gallery/anotherfood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/gallery/anotherjars/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/gallery/anotherjars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/gallery/anotherphone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/gallery/anotherphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/gallery/car/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/gallery/car/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/gallery/cup/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/gallery/cup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/gallery/drone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/gallery/drone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/gallery/food/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/gallery/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/gallery/jars/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/gallery/jars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This is the title</title>
+      <link>http://satomyumi.github.io/gallery/phone/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://satomyumi.github.io/gallery/phone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
