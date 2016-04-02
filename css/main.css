@@ -1,4 +1,3 @@
-
 /* ========================================================================= */
 /* = MODAL DIALOG                                                            */
 /* ========================================================================= */
@@ -147,7 +146,7 @@ ul.menu li:hover > ul {
 
 ul.menu li {
     float: left;
-  
+
     /* Needed */
     position: relative;
 }
@@ -230,6 +229,8 @@ html {
 html, body {
     margin: 0px;
     padding: 0px;
+    /*font-family: 'Josefin Slab', serif;*/
+    font-family: 'Poiret One', cursive;
 }
 
 .white-text {
@@ -249,12 +250,22 @@ html, body {
 }
 
 .row-colors {
+    /*background-color: #455A64;
+    color: #FFFFFF;*/
+    /*background-color: #455A64;*/
+    /*background-color: rgba(69, 90, 100, 0.87);*/
+    background-color: rgba(69, 90, 100, 0.67);
+    color: rgba(255, 255, 255, 0.87);
+}
+
+.footer-row-colors {
     background-color: #455A64;
     color: #FFFFFF;
 }
 
 .page-colors {
-    background-color: #90a4ae;
+    /*background-color: #90a4ae;*/
+    background-color: #455A64;
     color: rgba(0, 0, 0, 0.87);
 }
 
@@ -399,14 +410,14 @@ html, body {
 
 .clearfix:before,
 .clearfix:after {
-    content: ".";    
-    display: block;    
-    height: 0;    
-    overflow: hidden; 
+    content: ".";
+    display: block;
+    height: 0;
+    overflow: hidden;
 }
 
-.clearfix:after { 
-    clear: both; 
+.clearfix:after {
+    clear: both;
 }
 
 .clearfix {
@@ -587,7 +598,7 @@ ul.tags li a:hover {
     align-items: center;
 
     text-align: center;
-    
+
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -778,4 +789,3 @@ ul.pagination {
         width: calc(33.33% - 20px);
     }
 }
-
