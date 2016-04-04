@@ -37,7 +37,7 @@
 
 .lazyloading img {
     opacity: 0.5;
-    background: #F7F7F7 url("./img/loader.gif") no-repeat center;
+    background: #F7F7F7 url("/sensorium/img/loader.gif") no-repeat center;
 }
 
 .lazyloaded img {
