@@ -25,11 +25,11 @@ $(document).ready(function() {
         navSelector: "ul.pagination",
         nextSelector: "ul.pagination a:last",
         itemSelector: ".masonry-flex-container .flex-item",
-        loadingImg: "/img/loader.gif",
+        loadingImg: "./img/loader.gif",
         loading: {
             finishedMsg: "",
             msgText: "",
-            img: "/img/loader.gif"
+            img: "./img/loader.gif"
         }
     }, function(elements) {
         var $elements = $(elements);
@@ -87,4 +87,3 @@ $(document).ready(function() {
         hljs.initHighlightingOnLoad();
     }
 });
-
