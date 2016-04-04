@@ -1,0 +1,45 @@
+html, body {
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+#displayPanel {
+	height: 100%;
+	padding: 20px;
+/*	font-size: x-large;*/
+}
+
+.shopview {
+	height: 105px;
+	margin: 5px;
+	padding: 5px;
+	overflow: auto;
+}
+
+.blue {
+	background-color: lightblue;
+}
+
+.pink {
+	background-color: lightpink;
+}
+
+.photobox {
+	float: left;
+}
+
+.namebox {
+	height: 25px;
+	overflow: auto;
+}
+
+.description {
+	overflow: auto;
+	height: 80px;
+}
+
+.thumbnail {
+	height: 100px;
+	margin-right: 5px;
+}
