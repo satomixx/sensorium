@@ -1,0 +1,36 @@
+#container {
+  margin: 0 auto 25px;
+  position: relative;
+  padding-bottom: 5px;
+}
+
+.grid {
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+  float: left;
+  font-size: 12px;
+  margin: 8px;
+  min-height: 340px;
+  padding: 15px;
+  width: 460px;
+  transition: top 1s ease, left 1s ease;
+}
+.grid h2 {
+  border-bottom: 1px solid #ccc;
+  color: #fa3599;
+  display: block;
+  font-family: 'Donegal One', serif;
+  font-size: 17px;
+  margin: 5px 0;
+  padding: 0 0 3px;
+}
+.grid .meta {
+  color: #777;
+  font-style: italic;
+  text-align: right;
+}
+.grid .imgholder img {
+  background: #ccc;
+  display: block;
+  max-width: 100%;
+}
